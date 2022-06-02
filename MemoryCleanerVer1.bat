@@ -34,7 +34,8 @@ echo Welcome, %USERNAME%
 echo.
 echo.
 echo.
-echo This is YerBoiJake97's and Demonickatsu's Memory Cleaner, Fully open source.
+echo This is YerBoiJake97's and demonickatsu's Memory Cleaner, Fully open source.
+rem jake did all the work -  Katsu
 echo.
 echo.
 echo.
